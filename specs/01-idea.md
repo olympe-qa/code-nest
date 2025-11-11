@@ -1,0 +1,1 @@
+A simple test app. It shows a pink button in the center of the screen. If the user clicks the button, a random pokemon is displayed above the button. If the user clicks again, another random pokemon is shown
